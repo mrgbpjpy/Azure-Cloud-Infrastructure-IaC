@@ -174,4 +174,4 @@ MIT License – free to use and modify.
 **Erick Esquilin**  
 M.S. in Computer Science – Colorado Technical University  
 Cloud & Automation Engineer | Publix-Aligned Portfolio Project  
-📍 [GitHub Profile](https://github.com/erickesquilin) | [Portfolio](https://erick-esquilin-portfolio.vercel.app)
+📍 [Portfolio](https://erick-esquilin-portfolio.vercel.app)
