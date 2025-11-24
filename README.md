@@ -1,5 +1,5 @@
 
-# 🌩️ Azure Cloud Infrastructure IaC (Publix-Aligned Starter)
+# 🌩️ Azure Cloud Infrastructure IaC 
 
 This project provides a **production-ready Terraform stack for Azure**, showcasing cloud engineering, infrastructure automation, and DevOps best practices aligned with Publix Technology’s *Principal Software Engineer – Cloud Engineering* role.
 
